@@ -12,6 +12,10 @@ h1 {
     font-size: 32px;
     text-align: center;
     padding-top: 16px;
+    /* font-family: 'Highway Gothic', serif; */
+    font-family: 'highway_gothicregular';
+    font-weight: normal;
+    font-style: normal;
 }
 body {
     background-color: #F4C095;
