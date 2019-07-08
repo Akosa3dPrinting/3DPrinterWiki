@@ -9,7 +9,11 @@
     height: auto;
     border-radius: 0px 0px 20px 20px;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+}
+.header__blank{
+    width: 98px;
 }
 .footer {
     background-color: #FF6600;
